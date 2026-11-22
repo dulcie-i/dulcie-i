@@ -1,3 +1,7 @@
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=3500&pause=1000&color=E9AFCB&center=true&vCenter=true&width=800&lines=lost+in+the+blue...;somewhere+between+dreams+and+reality;welcome+to+my+little+world+%E2%9C%A7" />
+<br/>
+
+</div>
 <div align="center">
 
 <table width="100%" border="0">
