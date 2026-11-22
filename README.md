@@ -4,8 +4,8 @@
 <tr>
 <td width="55%" align="center" valign="middle">
 
-<img src="LINK_TAI_MEO" width="130"/>
-<img src="LINK_MAT_NGUOI" width="145"/>
+<img src="a86ea8589d688be99faf611d6a6ea600.jpg" width="130"/>
+<img src="iu.jpg" width="145"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <td width="45%" align="center" valign="middle">
 
-<img src="LINK_NO" width="190"/>
+<img src="39de9db8fe9049a39e50550160372665.jpg" width="190"/>
 
 </td>
 </tr>
