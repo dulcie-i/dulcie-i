@@ -4,12 +4,11 @@
 <tr>
 <td width="55%" align="center" valign="middle">
 
-<img src="a86ea8589d688be99faf611d6a6ea600.jpg" width="130"/>
+<img src="a86ea8589d688be99faf611d6a6ea600.jpg" width="150"/>
 <img src="iu.jpg" width="145"/>
-
 <br/>
 
-<img src="LINK_TAY_MEO" width="85"/>
+<img src="923465131_1155467696854547_7133051556397803574_n.gif" width="85"/>
 
 </td>
 
