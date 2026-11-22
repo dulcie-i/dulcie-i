@@ -18,6 +18,12 @@
 
 </td>
 </tr>
-</table>
 
+<tr>
+<td colspan="2" align="center">
+<img src="921312874_1564261795462364_8293203805753796058_n.gif" width="510"/>
+</td>
+</tr>
+
+</table>
 </div>
