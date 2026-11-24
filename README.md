@@ -28,12 +28,15 @@
 <img src="921312874_1564261795462364_8293203805753796058_n.gif" width="510"/>
 </td>
 </tr>
+</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=3000&pause=1000&color=E9AFCB&center=true&vCenter=true&width=510&lines=Little+Dreamy+Girl+%E2%9C%A7" />
+</p>
 
+<table>
 <tr>
 <td colspan="2" align="center">
 <img src="920012410_1786290299300191_6714554557750039935_n.gif" width="510"/>
 </td>
 </tr>
-
 </table>
-</div>
